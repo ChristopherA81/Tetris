@@ -1,6 +1,3 @@
-
-22 lines (20 sloc)  491 Bytes
-   
 import { useEffect, useRef } from 'react';
 
 export function useInterval(callback, delay) {
