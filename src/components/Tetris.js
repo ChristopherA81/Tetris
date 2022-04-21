@@ -6,6 +6,8 @@ import { createStage } from '../gameHelpers';
 import { StyledTetrisWrapper, StyledTetris } from './styles/StyledTetris';
 
 const Tetris = () => {
+
+    console.log(createStage());
     
     return (
         <StyledTetrisWrapper>
